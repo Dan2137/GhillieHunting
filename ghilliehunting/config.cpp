@@ -63,11 +63,6 @@ class cfgVehicles
 			"hips",
 			"ghillie1"
 		};
-		class ClothingTypes
-		{
-			male="\DZ\characters\backpacks\GhillieBushrag_m.p3d";
-			female="\DZ\characters\backpacks\GhillieBushrag_m.p3d";
-		};
 	};
 };
 
